@@ -552,29 +552,7 @@ transition: 属性   时间；
 
 
 
-## 案例
 
-01、新闻列表
-
-![](C:/Users/lenovo/Desktop/%E5%9F%BA%E7%A1%80%20%E8%B5%84%E6%96%99%2012/css%E7%AC%AC%E4%B8%89%E5%A4%A9/%E4%B8%8A%E8%AF%BE%E7%AC%94%E8%AE%B0/assets/09.png)
-
-2、学成在线列表
-
-![](C:/Users/lenovo/Desktop/%E5%9F%BA%E7%A1%80%20%E8%B5%84%E6%96%99%2012/css%E7%AC%AC%E4%B8%89%E5%A4%A9/%E4%B8%8A%E8%AF%BE%E7%AC%94%E8%AE%B0/assets/10.png)
-
-## 作业
-
-01、我的课程
-
-![](C:/Users/lenovo/Desktop/%E5%9F%BA%E7%A1%80%20%E8%B5%84%E6%96%99%2012/css%E7%AC%AC%E4%B8%89%E5%A4%A9/%E4%B8%8A%E8%AF%BE%E7%AC%94%E8%AE%B0/assets/11.png)
-
-02、小米登录
-
-![](C:/Users/lenovo/Desktop/%E5%9F%BA%E7%A1%80%20%E8%B5%84%E6%96%99%2012/css%E7%AC%AC%E4%B8%89%E5%A4%A9/%E4%B8%8A%E8%AF%BE%E7%AC%94%E8%AE%B0/assets/12.png)
-
-03、爱宠知识（选做）
-
-![](C:/Users/lenovo/Desktop/%E5%9F%BA%E7%A1%80%20%E8%B5%84%E6%96%99%2012/css%E7%AC%AC%E4%B8%89%E5%A4%A9/%E4%B8%8A%E8%AF%BE%E7%AC%94%E8%AE%B0/assets/13.png)
 
 
 

@@ -517,21 +517,3 @@ nav盒子代表导航的整体，ul嵌套li代表导航的列表，a需要实现
 
 https://caniuse.com/?search=display%3Aflow-root
 
-## 案例
-
-01、导航的写法
-
-![](assets/04.png)
-
-02、学成在线列表
-
-![](assets/03.png)
-
-03、小米手机
-
-![](assets/02.png)
-
-## 作业
-
-学成在线网站书写
-
